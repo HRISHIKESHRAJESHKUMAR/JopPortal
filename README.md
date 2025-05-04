@@ -25,10 +25,3 @@ A powerful, full-stack **Job Portal** where users can create, view, and search f
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
